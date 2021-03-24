@@ -155,22 +155,26 @@ Existem 2 tipos de backup no VIM/NeoVim:
 **Emmit-vim** -  é um plug-in do vim que fornece suporte para expandir abreviações semelhantes ao emmet .
 
 ** Tutorial Rápido Abra ou crie um novo arquivo:** 
-    vim index.html 
+    
+vim index.html 
+      Ou 
+nvim index.html
 
 Digite ("\ _" é a posição do cursor):
      html: 5_ 
     
  Em seguida, digite `<c-y>,` (<kbd> Ctrl </kbd> <kbd> y </kbd> <kbd>, </kbd>) e você verá: 
 
-  `` ` <! DOCTYPE HTML>
+```
+      <! DOCTYPE HTML>
        <html lang = "en"> 
            <head> 
               <meta charset = "UTF-8">
               <title> </title> 
            </head>
-            <body> _ 
-            </body> 
-       </html> `` ` 
+            <body> _  </body> 
+       </html> 
+```
 
 ![Mais tutoriais] (https://raw.githubusercontent.com/mattn/emmet-vim/master/TUTORIAL)
 
