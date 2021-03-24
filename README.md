@@ -152,13 +152,16 @@ Existem 2 tipos de backup no VIM/NeoVim:
 
 **vim-editorconfig** - Extende as possibilidades de configuração do VIM
 
-## Tutorial Rápido Abra ou crie um novo arquivo: 
+**Emmit-vim** -  é um plug-in do vim que fornece suporte para expandir abreviações semelhantes ao emmet .
+
+** Tutorial Rápido Abra ou crie um novo arquivo:** 
     vim index.html 
 
 Digite ("\ _" é a posição do cursor):
      html: 5_ 
-Em seguida, digite `<c-y>,` (<kbd> Ctrl </kbd> <kbd> y </kbd> <kbd>, </kbd>) e você verá: 
-```<! DOCTYPE HTML>
+     Em seguida, digite `<c-y>,` (<kbd> Ctrl </kbd> <kbd> y </kbd> <kbd>, </kbd>) e você verá: 
+
+`` ` <! DOCTYPE HTML>
 <html lang = "en"> 
     <head> 
       <meta charset = "UTF-8">
