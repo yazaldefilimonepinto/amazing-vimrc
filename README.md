@@ -159,19 +159,20 @@ Existem 2 tipos de backup no VIM/NeoVim:
 
 Digite ("\ _" é a posição do cursor):
      html: 5_ 
-     Em seguida, digite `<c-y>,` (<kbd> Ctrl </kbd> <kbd> y </kbd> <kbd>, </kbd>) e você verá: 
+    
+ Em seguida, digite `<c-y>,` (<kbd> Ctrl </kbd> <kbd> y </kbd> <kbd>, </kbd>) e você verá: 
 
-`` ` <! DOCTYPE HTML>
-<html lang = "en"> 
-    <head> 
-      <meta charset = "UTF-8">
-       <title> </title> 
-    </head>
-    <body> _ 
-     </body> 
-</html> `` ` 
+  `` ` <! DOCTYPE HTML>
+       <html lang = "en"> 
+           <head> 
+              <meta charset = "UTF-8">
+              <title> </title> 
+           </head>
+            <body> _ 
+            </body> 
+       </html> `` ` 
 
-[Mais tutoriais] (https://raw.githubusercontent.com/mattn/emmet-vim/master/TUTORIAL)
+![Mais tutoriais] (https://raw.githubusercontent.com/mattn/emmet-vim/master/TUTORIAL)
 
 # Servidor LSP
 Um servidor LSP significa que é um servidor com suporte a várias linguagens, no nosso caso, incluímos a parte da Instalação dele no install.sh, porém, se for de sua vontade, pode instalá-lo manualmente após olhar o install.sh.
