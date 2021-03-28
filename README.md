@@ -176,7 +176,7 @@ Digite ("\ _" é a posição do cursor):
        </html> 
 ```
 
-![Mais tutoriais] (https://raw.githubusercontent.com/mattn/emmet-vim/master/TUTORIAL)
+[Mais tutoriais] (https://raw.githubusercontent.com/mattn/emmet-vim/master/TUTORIAL)
 
 # Servidor LSP
 Um servidor LSP significa que é um servidor com suporte a várias linguagens, no nosso caso, incluímos a parte da Instalação dele no install.sh, porém, se for de sua vontade, pode instalá-lo manualmente após olhar o install.sh.
